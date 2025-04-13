@@ -19,7 +19,7 @@
 - **Real-Time Object Detection** – [View on GitHub](https://github.com/Shubhanshu5571/Object-Detection-using-Mediapipe)
 
 🏅 Certifications:
-- Full Stack Data Science & AI – Naresh I Technologies, Hyderabad
+- Full Stack Data Science & AI – Naresh I Technologies, Hyderabad -[View Certificate](https://github.com/Shubhanshu5571/Shubhanshu5571.github.io/blob/main/FSDS%20certificate.pdf)
 
 📫 **Contact**:
 - Email: prabhujidwivedi8303@gmail.com
